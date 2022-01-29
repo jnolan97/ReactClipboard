@@ -1,3 +1,7 @@
+# React Clipboard App
+Used to store and retrieve common elements copied/pasted for easy access. \
+Based on the tutorial found here: https://javascript.plainenglish.io/creating-a-chrome-extension-with-react-d92db20550cb
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
